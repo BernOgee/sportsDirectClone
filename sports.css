@@ -1,0 +1,164 @@
+.top-nav {
+  margin-top: 0 !important;
+}
+
+.third-nav {
+  display: inline;
+}
+
+.third-nav ul {
+  padding: 0.5rem 0;
+}
+
+.third-nav ul li {
+  text-decoration: none;
+  display: inline;
+  margin-right: 2rem;
+}
+
+input {
+  width: 100%;
+}
+
+/* homepage */
+
+.homepage {
+  margin-top: 0;
+}
+
+.button-div {
+  margin-top: 2rem;
+  padding: 2% 15%;
+}
+
+.button-div button {
+  margin-right: 1rem;
+}
+
+
+/* second-container */
+.second-container{
+  margin-bottom: 3rem;
+}
+
+
+.second-container .row .col-lg-6 img {
+  position: relative;
+  padding-left: 5%;
+  height: 100%;
+}
+
+.second-container .row .col-lg-6 button {
+  position: relative;
+  bottom: 7.5rem;
+  margin-left: 40%;
+  z-index: 1;
+}
+
+/* Carousel */
+.carousel-item {
+  padding: 10%;
+  margin: auto;
+}
+
+.carousel-item img {
+  height: 5vh;
+}
+
+/* logos */
+#logos{
+  padding: 0 10%;
+}
+
+.logos-div {
+  margin-top: 5rem;
+}
+
+.logos-div-2 {
+  margin-top: 5rem;
+}
+
+.logos-div-2 .col-lg-3 img {
+  position: relative;
+}
+
+.logos-div-2 .col-lg-3 i {
+  position: absolute;
+  z-index: 1;
+  margin-top: 1rem;
+}
+
+.logos-div-2 .col-lg-3 h6 {
+  color: gray;
+}
+
+.logos-div-2 .col-lg-3 h5 {
+  font-size: 1rem;
+}
+
+.logos-div-2 .col-lg-3 p span{
+  margin-right: 1rem;
+}
+
+.grey-color {
+  color: gray;
+}
+
+.cancel {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.new-h4 {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+hr {
+  background-color: gray;
+}
+
+footer .row .col-lg-3 p {
+  color: white;
+  font-size: 1rem;
+}
+
+.row-1 {
+  margin-bottom: 1px solid white;
+}
+
+.row-2 {
+  padding: 0 5%;
+}
+
+.icons i {
+  display: inline-block;
+}
+
+.row-2 {
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
+
+.row-3 {
+  margin-top: 2rem;
+  border-bottom: 1px solid gray;
+}
+
+.row-3 .col-lg-4{
+  border-right: 1px solid gray;
+  padding: 1% 2%;
+}
+
+.row-4 {
+  margin-top: 2rem;
+}
+
+.row-5 {
+  margin-top: 2rem;
+}
+
+.row-5 .col-lg-6 {
+  height: 1rem;
+}
+
